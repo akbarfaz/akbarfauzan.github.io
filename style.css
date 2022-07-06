@@ -2,11 +2,40 @@
   padding-top: 6rem;
   background-color: beige;
 }
+
+#skills .bar {
+  height: 30px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  margin: 5px 0 20px 0;
+}
+.bar .nilai {
+  height: 30px;
+  background-color: #ffc300;
+  display: inline-block;
+  color: #fff;
+  text-align: center;
+}
+.html {
+  width: 80%;
+}
+.css {
+  width: 75%;
+}
+.php {
+  width: 70%;
+}
+.laravel {
+  width: 70%;
+}
 /* #project {
   background-color: beige;
 } */
-#contact {
+#skills {
   background-color: beige;
+}
+#contact {
+  background-color: rgb(255, 255, 255);
 }
 
 section {
